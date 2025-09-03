@@ -2,7 +2,7 @@
 
 **AsyncUntangle** attempts to untangle some common async / await pitfalls.
 
-> ## Background and History
+## Background and History
 
 A small preamble and history on **AsyncUntangle**. **AsyncUntangle** started as a small project for me to understand Roslyn analyzer fundamentals. Being a frequent victim of common async pitfalls and "code smells" myself, it seemed like the perfect place to start.
 
